@@ -1,2 +1,2 @@
-# Automatizaci-n-Motor
-Aquí se encuentra un trabajo realizado para automatizar el funcionamiento de un motor eléctrico mediante un PLC con el programa TIA portal v14
+# Automatizacion-Motor
+Aquí se encuentran trabajos de automatizacion mediante un PLC con el programa TIA portal v14
